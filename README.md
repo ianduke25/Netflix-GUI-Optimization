@@ -3,7 +3,7 @@
 <img width="471" alt="Screenshot 2024-02-10 at 11 01 43 AM" src="https://github.com/ianduke25/Netflix-GUI-Optimization/assets/132767073/b6698e43-78bc-4866-9f27-973df04d7d30">
 
 ## Overview
-This repository contains a Jupyter notebook, `Netflix_UI_Optimization.ipynb`, focused on optimizing the user interface (UI) of a simulated Netflix platform. The notebook employs a multifactorial experimental design and response surface methodology to analyze various UI elements' effects on user browsing time. It is important to note that the data used in this study is simulated and does not represent real Netflix user data. The purpose of this simulation is to demonstrate the application of experimental design principles and response surface methodology in a controlled setting.
+This repository contains a Jupyter notebook, `Netflix_UI_Optimization.ipynb`, focused on optimizing the user interface (UI) of a simulated Netflix platform. The notebook employs multifactorial experimental design and response surface methodology to analyze various UI elements' effects on user browsing time. It is important to note that the data used in this study is simulated and does not represent real Netflix user data. The purpose of this simulation is to demonstrate the application of experimental design principles and response surface methodology in a controlled setting.
 
 This project was completed in collaboration with Fred Serfati, Abhi Erra, and Sai Vamsi.
 
